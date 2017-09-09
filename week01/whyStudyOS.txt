@@ -1,1 +1,3 @@
 #davidtompul
+
+Mempelajari OS akan membantu mengetahui lebih dalam mengenai bagaimana OS dapat bekerja dengan level hardware, dan memanajemen proses setiap aplikasi yang dijalankan di atasnya.
