@@ -1,0 +1,8 @@
+Untuk dapat menggunakan badak :
+1. buat akun google
+2. buat akun git dan sebuah project os172
+3. mengisi form
+
+Login badak :
+1. menggunakan akun SSO 
+2. jika dari public, dapat melalui kawung
