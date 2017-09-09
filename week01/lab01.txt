@@ -20,3 +20,4 @@ drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week09
 drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:56 week10
 drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:56 xtra
 /home/fasilkom/mahasiswa/d/david.elkana/kuliah/s1/os/mygit/os172/week01
+Today is 09 Sep 2017 at 09:37:09
