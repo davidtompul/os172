@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 david.elkana StafCS 4096 Sep  9 09:14 .
+drwxr-xr-x  3 david.elkana StafCS 4096 Sep  9 08:48 ..
+drwxr-xr-x  8 david.elkana StafCS 4096 Sep  9 09:12 .git
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:57 key
+-rw-r--r--  1 david.elkana StafCS    0 Sep  9 09:15 lab01.txt
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:56 log
+-rw-r--r--  1 david.elkana StafCS    7 Sep  9 08:48 README.md
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 09:00 sandbox
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 09:10 week00
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week01
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week02
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week03
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week04
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week05
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week06
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week07
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week08
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:55 week09
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:56 week10
+drwxr-xr-x  2 david.elkana StafCS 4096 Sep  9 08:56 xtra
+/home/fasilkom/mahasiswa/d/david.elkana/kuliah/s1/os/mygit/os172/week01
