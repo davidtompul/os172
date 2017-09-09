@@ -1,0 +1,7 @@
+Beberapa command pada linux yang dapat digunakan untuk memanajemen file dan folder adalah rm, mkdir, touch, mv, cp.
+
+Beberapa option yang dapat digunakan untuk git adalah pull, commit, push.
+
+Beberapa text editor yang umum digunakan pada linux adalah vi, vim, nano.
+
+Operator ">" dapat digunakan untuk menuliskan keluaran ke dalam file, dan operator ">>" digunakan untuk append ke file.
